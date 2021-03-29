@@ -6005,6 +6005,54 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "",
+      "age": null,
+      "description": "",
+      "id": 1002
+    },
+    {
+      "name": "",
+      "age": null,
+      "description": "",
+      "id": 1003
+    },
+    {
+      "name": "",
+      "age": null,
+      "description": "",
+      "id": 1004
+    },
+    {
+      "name": "Sully",
+      "age": 25,
+      "description": "big, blue, purple spotted, lion/monster with horns",
+      "id": 1005
+    },
+    {
+      "name": "Mike Wazowski",
+      "age": "25",
+      "description": " Cyclops",
+      "id": 1006
+    },
+    {
+      "name": "Mike Wazowski",
+      "age": "25",
+      "description": " Cyclops",
+      "id": 1007
+    },
+    {
+      "name": "",
+      "age": "",
+      "description": "",
+      "id": 1008
+    },
+    {
+      "name": "Pikachu",
+      "age": "25",
+      "description": "Electric mouse",
+      "id": 1009
     }
   ]
 }
